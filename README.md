@@ -8,6 +8,7 @@ Kumpulan thesis, paper, dan artikel tentang NLP (_Natural Language Processing_) 
 - [NLP Bahasa Indonesia](#nlp-bahasa-indonesia)
     - [Memulai](#memulai)
     - [Automatic Summarization](#automatic-summarization)
+    - [Part-of-speech Tagging](#part-of-speech-tagging)
     - [Stemming](#stemming)
     - [Software, Library, Kamus](#software-library-kamus)
     - [Lain-lain](#lain-lain)
@@ -31,6 +32,14 @@ Automatic Summarization
 - [Frequent Term based Text Summarization for Bahasa Indonesia](http://eprints.unsri.ac.id/3296/1/Frequent_Term_Based_Text_Summarization_For_Bahasa_Indonesia_-_E1213550.pdf)
 
   M.Fachrurrozi, Novi Yusliani, and Rizky Utami Yoanita. International Conference on Innovations in Engineering and Technology (ICIET'2013) Dec. 25-26, 2013 Bangkok (Thailand).
+
+
+Part-of-speech Tagging
+======================
+
+- [HMM Based Part-of-Speech Tagger for Bahasa Indonesia](http://mail.informatika.org/~ayu/2010postagger.pdf)
+
+  Wicaksono, A. Farizki dan Purwanti, Ayu. Proceeding of 4th International Malindo (Malay and Indonesian Language) Workshop (2010).
 
 
 Stemming
