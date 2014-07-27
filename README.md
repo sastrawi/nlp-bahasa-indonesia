@@ -19,7 +19,7 @@ Memulai
 
 ### Artikel-Artikel Tentang NLP
 
-- [Karena Data Gak Mungkin Bohong](https://medium.com/karena-x/karena-data-gak-mungkin-bohong-a17ff90cef87) - Jim Geovedi.
+- [Karena Data Gak Mungkin Bohong](https://medium.com/karena-x/karena-data-gak-mungkin-bohong-a17ff90cef87) - Jim Geovedi. 2014.
 
 ### Materi Pengantar NLP
 
