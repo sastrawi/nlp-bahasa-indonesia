@@ -7,7 +7,7 @@ Kumpulan thesis, paper, dan artikel tentang NLP (_Natural Language Processing_) 
 
 - [NLP Bahasa Indonesia](#nlp-bahasa-indonesia)
     - [Memulai](#memulai)
-    - [Automatic Summarization](#automatic-summarization)
+    - [Automatic Summarization](#automatic-summarizatio)
     - [Part-of-speech Tagging](#part-of-speech-tagging)
     - [Stemming](#stemming)
     - [Software, Library, Kamus](#software-library-kamus)
@@ -41,6 +41,14 @@ Part-of-speech Tagging
 
   Wicaksono, A. Farizki dan Purwanti, Ayu. Proceeding of 4th International Malindo (Malay and Indonesian Language) Workshop (2010).
 
+- [Penggunaan Hidden Markov Model untuk Kompresi Kalimat](http://digilib.itb.ac.id/files/disk1/627/jbptitbpp-gdl-yudiwibiso-31314-1-2008ts-r.pdf)
+
+  Yudi Wibisono. Graduate Thesis. Institute of Technology Bandung. 2008.
+  
+- [Probabilistic Part Of Speech Tagging for Bahasa Indonesia](http://www.panl10n.net/english/outputs/Indonesia/UI/0901/UI-POSTAG.pdf)
+
+  Femphy Pisceldo, Mirna Adriani, Ruli Manurung. Third International MALINDO Workshop, colocated event ACL-IJCNLP 2009, Singapore, August 1, 2009. 
+
 
 Stemming
 ========
@@ -71,6 +79,20 @@ Lain-lain
 - [A survey of bahasa Indonesia NLP research conducted at the University of Indonesia](http://staf.cs.ui.ac.id/~maruli/pub/malindo08nlp.pdf)
 
   Mirna Adriani and Ruli Manurung. Faculty of Computer Science, University of Indonesia.
+
+- [Indonesian Morphology Tool (MorphInd): Towards an Indonesian Corpus](http://ufal.mff.cuni.cz/~larasati/papers/paper6.pdf)
+
+  Septina Dian Larasati, Vladislav Kuboˇn, and Daniel Zeman. Charles University in Prague.
+
+- [Research Report on Local Language Computing: Development of Indonesian Language Resources and Translation System](http://www.panl10n.net/english/outputs/Indonesia/FinalReportID.pdf)
+
+  Adriani, Mirna. Riza, Hammam. 2008.
+
+- [Towards a Semantic Analysis of Bahasa Indonesia for Question Answering](http://bahasa.cs.ui.ac.id/pub/pacling07.pdf)
+
+  Septina Dian Larasati and Ruli Manurung. Faculty of Computer Science. University of Indonesia
+
+  
 
 
 Berkontribusi
