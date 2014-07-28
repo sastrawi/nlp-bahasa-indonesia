@@ -10,9 +10,10 @@ Kumpulan thesis, paper, dan artikel tentang NLP (_Natural Language Processing_) 
     - [Automatic Summarization](#automatic-summarizatio)
     - [Part-of-speech Tagging](#part-of-speech-tagging)
     - [Stemming](#stemming)
-    - [Software, Library, Kamus](#software-library-kamus)
     - [Word Sense Disambiguation](#word-sense-disambiguation)
     - [Lain-lain](#lain-lain)
+    - [Software, Library, Kamus](#software-library-kamus)
+    - [Berkontribusi](#berkontribusi)
 
 
 Memulai
@@ -67,13 +68,6 @@ Stemming
   A. D. Tahitoe, D. Purwitasari. Institut Teknologi Sepuluh Nopember (ITS) – Surabaya.
 
 
-Software, Library, Kamus
-========================
-
-- [Kateglo](http://kateglo.com/) - Kamus, Tesaurus, dan Glosarium Bahasa Indonesia.
-- [Sastrawi](https://github.com/sastrawi/sastrawi) - Stemmer PHP untuk Bahasa Indonesia.
-
-
 Word Sense Disambiguation
 =========================
 
@@ -105,7 +99,12 @@ Lain-lain
 
   Septina Dian Larasati and Ruli Manurung. Faculty of Computer Science. University of Indonesia
 
-  
+
+Software, Library, Kamus
+========================
+
+- [Kateglo](http://kateglo.com/) - Kamus, Tesaurus, dan Glosarium Bahasa Indonesia.
+- [Sastrawi](https://github.com/sastrawi/sastrawi) - Stemmer PHP untuk Bahasa Indonesia.
 
 
 Berkontribusi
