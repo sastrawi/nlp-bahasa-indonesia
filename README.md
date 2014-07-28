@@ -77,6 +77,10 @@ Software, Library, Kamus
 Word Sense Disambiguation
 =========================
 
+- [Building an Indonesian WordNet](http://bahasa.cs.ui.ac.id/pub/malindo08wordnet.pdf)
+
+  Desmond Darma Putra, Abdul Arfan and Ruli Manurung. In Proceedings of the 2nd International MALINDO Workshop. 2008.
+
 - [English-to-Indonesian Lexical Mapping using Latent Semantic Analysis](http://bahasa.cs.ui.ac.id/pub/malindo08lsa.pdf)
 
   Eliza Margaretha, Franky, and Ruli Manurung. In Proceedings of the 2nd International MALINDO Workshop. 2008.
