@@ -97,7 +97,7 @@ Lain-lain
 
 - [Towards a Semantic Analysis of Bahasa Indonesia for Question Answering](http://bahasa.cs.ui.ac.id/pub/pacling07.pdf)
 
-  Septina Dian Larasati and Ruli Manurung. Faculty of Computer Science. University of Indonesia
+  Septina Dian Larasati and Ruli Manurung. Faculty of Computer Science. University of Indonesia. 2007.
 
 
 Software, Library, Kamus
