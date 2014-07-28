@@ -11,6 +11,7 @@ Kumpulan thesis, paper, dan artikel tentang NLP (_Natural Language Processing_) 
     - [Part-of-speech Tagging](#part-of-speech-tagging)
     - [Stemming](#stemming)
     - [Software, Library, Kamus](#software-library-kamus)
+    - [Word Sense Disambiguation](#word-sense-disambiguation)
     - [Lain-lain](#lain-lain)
 
 
@@ -71,6 +72,14 @@ Software, Library, Kamus
 
 - [Kateglo](http://kateglo.com/) - Kamus, Tesaurus, dan Glosarium Bahasa Indonesia.
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - Stemmer PHP untuk Bahasa Indonesia.
+
+
+Word Sense Disambiguation
+=========================
+
+- [English-to-Indonesian Lexical Mapping using Latent Semantic Analysis](http://bahasa.cs.ui.ac.id/pub/malindo08lsa.pdf)
+
+  Eliza Margaretha, Franky, and Ruli Manurung. In Proceedings of the 2nd International MALINDO Workshop. 2008.
 
 
 Lain-lain
