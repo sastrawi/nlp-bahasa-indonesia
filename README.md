@@ -44,6 +44,10 @@ Parsing
 
   Shavitri, Shelly. Undergraduate Theses for computer science, University of Indonesia, 1999.
 
+- [INAGP : Pengurai Kalimat Bahasa Indonesia Sebagai Alat Bantu Untuk Pengembangan Aplikasi PBA](http://mail.informatika.org/~ayu/2009parser.pdf)
+
+  Rosalina Paramita N., Dwi H. Widyantoro, Ayu Purwarianti. Undergraduate Theses from JBPTITBPP, Institute Technology Bandung, 2007.
+
 
 Part-of-speech Tagging
 ======================
