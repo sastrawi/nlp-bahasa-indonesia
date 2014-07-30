@@ -48,6 +48,10 @@ Parsing
 
   Rosalina Paramita N., Dwi H. Widyantoro, Ayu Purwarianti. Undergraduate Theses from JBPTITBPP, Institute Technology Bandung, 2007.
 
+- [Penguraian Bahasa Indonesia dengan Menggunakan Pengurai Collins](http://digilib.itb.ac.id/gdl.php?mod=browse&op=read&id=jbptitbpp-gdl-rosaariani-25714)
+
+  Sukamto, Rosa Ariani. Tesis untuk Magister, Institut Technology Bandung, 2009.
+
 
 Part-of-speech Tagging
 ======================
