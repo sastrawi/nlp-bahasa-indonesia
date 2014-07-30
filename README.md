@@ -8,6 +8,7 @@ Kumpulan thesis, paper, dan artikel tentang NLP (_Natural Language Processing_) 
 - [NLP Bahasa Indonesia](#nlp-bahasa-indonesia)
     - [Memulai](#memulai)
     - [Automatic Summarization](#automatic-summarizatio)
+    - [Parsing](#parsing)
     - [Part-of-speech Tagging](#part-of-speech-tagging)
     - [Stemming](#stemming)
     - [Word Sense Disambiguation](#word-sense-disambiguation)
@@ -34,6 +35,14 @@ Automatic Summarization
 - [Frequent Term based Text Summarization for Bahasa Indonesia](http://eprints.unsri.ac.id/3296/1/Frequent_Term_Based_Text_Summarization_For_Bahasa_Indonesia_-_E1213550.pdf)
 
   M.Fachrurrozi, Novi Yusliani, and Rizky Utami Yoanita. International Conference on Innovations in Engineering and Technology (ICIET'2013) Dec. 25-26, 2013 Bangkok (Thailand).
+
+
+Parsing
+=======
+
+- [Analisa Struktur Kalimat Bahasa Indonesia dengan Menggunakan Pengurai Kalimat Berbasis Linguistic String Analysis](http://staf.cs.ui.ac.id/WebKuliah/IKI40921/Shelly.doc)
+
+  Shavitri, Shelly. Undergraduate Theses for computer science, University of Indonesia, 1999.
 
 
 Part-of-speech Tagging
