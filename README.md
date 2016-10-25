@@ -27,6 +27,7 @@ Memulai
 ### Materi Pengantar NLP
 
 - [Pengantar NLP](http://lecturer.eepis-its.edu/~kangedi/materi%20kuliah/Kecerdasan%20Buatan/Bab%205%20Natural%20Language%20Processing.pdf) - Kang Edi, PENS.
+- [Natural Language Processing](http://socs.binus.ac.id/2013/06/22/NATURAL-LANGUAGE-PROCESSING/)Derwin Suhartono, S.Kom., MTI.
 
 
 Automatic Summarization
